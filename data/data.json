@@ -1,0 +1,214 @@
+{
+    "data": [
+        [
+            {
+                "question": " ¿Quién es el autor de la frase 'Pienso, luego existo'?",
+                "a": "Platón",
+                "b": "Galileo Galilei",
+                "c": "Descartes",
+                "d": "Sócrates",
+                "correct": "Descartes"
+            },
+            {
+                "question": "¿Cuál es el país más grande y el más pequeño del mundo?",
+                "a": "Rusia y Vaticano",
+                "b": "China y Nauru",
+                "c": "Canadá y Mónaco",
+                "d": "Estados Unidos y Malta",
+                "correct": "Rusia y Vaticano"
+            },
+            {
+                "question": "¿Cuál es el grupo de palabras escritas correctamente?",
+                "a": "Metamorfosis, extranjero, diversidac, equilivrio",
+                "b": "Metaformosis, estranjero, diversidad, ekilibrio",
+                "c": "Metamorfosis, extrangero, dibersidad, equilibrio",
+                "d": "Metamorfosis, extranjero, diversidad, equilibrio",
+                "correct": "Metamorfosis, extranjero, diversidad, equilibrio"
+            },
+            {
+                "question": "¿Cuántos jugadores por equipo participan en un partido de voleibol?",
+                "a": "2 jugadores",
+                "b": "3 jugadores",
+                "c": "5 jugadores",
+                "d": "6 jugadores",
+                "correct": "6 jugadores"
+            },
+            {
+                "question": "¿Cuál es la traducción correcta de la frase 'There is a green carpet at the exit of the library'?",
+                "a": "Hay una verde carpeta en la salida de la librería",
+                "b": "Ahí es una verde carpeta en el éxito de la librería",
+                "c": "Hay una alfombra verde a la salida de la biblioteca",
+                "d": "Hay una alfombra verde a la salida de la librería",
+                "correct": "Hay una alfombra verde a la salida de la biblioteca"
+            }
+        ],
+        [
+            {
+                "question": "¿En qué periodo de la prehistoria fue descubierto el fuego?",
+                "a": "Neolítico",
+                "b": "Paleolítico",
+                "c": "Edad de los metales",
+                "d": "Edad de piedra",
+                "correct": "Paleolítico"
+            },
+            {
+                "question": "¿A quién se le atribuye la frase 'Solo sé que no sé nada'?",
+                "a": "Aristóteles",
+                "b": "Nietszche",
+                "c": "Sófocles",
+                "d": "Sócrates",
+                "correct": "Sócrates"
+            },
+            {
+                "question": "¿Cuál es la montaña más alta del continente americano?",
+                "a": "Monte Everest",
+                "b": "Aconcagua",
+                "c": "Pico Bolívar",
+                "d": "Monte Fuji",
+                "correct": "Aconcagua"
+            },
+            {
+                "question": "¿En qué país de África el español es la lengua oficial?",
+                "a": "Costa de Marfil",
+                "b": "Sierra Leona",
+                "c": "Guinea ecuatorial",
+                "d": "Cabo Verde",
+                "correct": "Guinea ecuatorial"
+            },
+            {
+                "question": "¿Qué hora es en inglés 'It is a quarter past six'",
+                "a": "6:15",
+                "b": "3:46",
+                "c": "6:45",
+                "d": "5:45",
+                "correct": "6:15"
+            }
+        ],
+        [
+            {
+                "question": "¿Quién es el autor de 'El Príncipe'?",
+                "a": "Antoine de Saint-Exupery",
+                "b": "Charles de Gales",
+                "c": "Friedrich Nietzche",
+                "d": "Nicolás Maquiavelo",
+                "correct": "Nicolás Maquiavelo"
+            },
+            {
+                "question": "¿Cuál es la conjugación del verbo 'caber' en la primera persona del singular del presente indicativo",
+                "a": "Nosotros cabemos",
+                "b": "Yo quepo",
+                "c": "Yo cabo",
+                "d": "Nosotros quepamos",
+                "correct": "Yo quepo"
+            },
+            {
+                "question": " ¿Cuales de las siguientes son enfermedades de transmisión sexual ETS?",
+                "a": "SIDA, tricomoniasis, ébola",
+                "b": "Chikunguya, malaria, herpes genital",
+                "c": "Gonorrea, clamidia, sífilis",
+                "d": "Botulismo, cistitis, chagas",
+                "correct": "Gonorrea, clamidia, sífilis"
+            },
+            {
+                "question": " ¿Cuál de estos países se extiende entre dos continentes?",
+                "a": "Tanzania",
+                "b": "Groenlandia",
+                "c": "Rusia",
+                "d": "Egipto",
+                "correct": "Rusia"
+            },
+            {
+                "question": " ¿En cuál de las siguientes oraciones se emplea una palabra de forma incorrecta?",
+                "a": "La sabia elaborada pasa por el floema.",
+                "b": "Mi abuela era una mujer sabia.",
+                "c": "No sabía que podía hacer esto.",
+                "d": "Mi mamá prepara un rico platillo con salvia.",
+                "correct": "La sabia elaborada pasa por el floema."
+            }
+        ],
+        [
+            {
+                "question": "¿Cuáles son los dioses griegos correspondientes a los dioses romanos Júpiter y Plutón?",
+                "a": "Ares y Hermes",
+                "b": "Cronos y Apolo",
+                "c": "Zeus y Hades",
+                "d": "Zeus y Ares",
+                "correct": "Zeus y Hades"
+            },
+            {
+                "question": "¿Cuál es el tema del famoso discurso 'I have a dream' de Martin Luther King?",
+                "a": "La igualdad de las razas",
+                "b": "La Justicia para los menos favorecidos",
+                "c": "La intolerancia religiosa",
+                "d": "La lucha contra el Apartheid",
+                "correct": "La igualdad de las razas"
+            },
+            {
+                "question": "¿Qué líder mundial quedó conocida como 'La Dama de Hierro'?",
+                "a": "Dilma Rouseff",
+                "b": "Hillary Clinton",
+                "c": "Margaret Thatcher",
+                "d": "Christine Lagarde",
+                "correct": "Margaret Thatcher"
+            },
+            {
+                "question": "¿Qué es el Acuerdo de París?",
+                "a": "El acuerdo ortográfico entre países cuya lengua oficial es el francés.",
+                "b": "El acuerdo entre países europeos acerca de la inmigración.",
+                "c": "El acuerdo entre Francia, EE.UU y Canadá para acusar a China del calentamiento global.",
+                "d": "El acuerdo entre varios países acerca de las consecuencias del calentamiento global.",
+                "correct": "El acuerdo entre varios países acerca de las consecuencias del calentamiento global."
+            },
+            {
+                "question": "¿Qué es la Triple Alianza?",
+                "a": "El acuerdo de cooperación financiera de las tres grandes potencias.",
+                "b": "El acuerdo económico entre Inglaterra, Francia y Rusia",
+                "c": "El acuerdo económico entre México, EE.UU y Canadá.n",
+                "d": "El acuerdo entre Alemania, el imperio Austro-Húngaro e Italia para apoyarse en caso de guerra.",
+                "correct": "El acuerdo entre Alemania, el imperio Austro-Húngaro e Italia para apoyarse en caso de guerra."
+            }
+        ],
+        [
+            {
+                "question": " ¿Cuántos litros de sangre tiene una persona adulta?",
+                "a": "Tiene entre 2 y 4 litros",
+                "b": "Tiene entre 4 y 6 litros",
+                "c": "Tiene 10 litro",
+                "d": "Tiene 7 litros",
+                "correct": "Tiene entre 4 y 6 litros"
+            },
+            {
+                "question": "¿Cuál es el libro más vendido en el mundo después de la Biblia?",
+                "a": "El Señor de los Anillos",
+                "b": "Don Quijote de la Mancha",
+                "c": "El Principito",
+                "d": "La Odisea",
+                "correct": "Don Quijote de la Mancha"
+            },
+            {
+                "question": "¿Cuántos decimales tiene el número pi π?",
+                "a": "Dos",
+                "b": "Cien",
+                "c": "Infinitos",
+                "d": "Veinte",
+                "correct": "Infinitos"
+            },
+            {
+                "question": "La sal común está formada por dos elementos, ¿cuáles son?",
+                "a": "Sodio y potasio",
+                "b": "Sodio y cloro",
+                "c": "Sodio y carbono",
+                "d": "Potasio y cloro",
+                "correct": "Sodio y cloro"
+            },
+            {
+                "question": "¿Cuáles son los representantes más destacados de la literatura renacentista?",
+                "a": "Miguel de Cervantes, William Shakespeare, Luis de Camões.",
+                "b": "Leonardo da Vinci, Miguel Angel Buonarroti, Sandro Boticelli",
+                "c": "Caravaggio, Bernini, Borromini",
+                "d": "Goethe, Victor Hugo, Gustavo Adolfo Bécquer",
+                "correct": "Miguel de Cervantes, William Shakespeare, Luis de Camões."
+            }
+        ]
+    ]
+}

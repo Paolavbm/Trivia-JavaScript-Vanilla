@@ -1,0 +1,50 @@
+body {
+    background-color: black;
+}
+
+#divMain {
+    color: white;
+
+    .header {
+        text-align: center;
+        padding: 2em;
+    }
+
+
+
+    .botones {
+    
+        text-align: center;
+        padding: 2em;
+
+        .boton {
+            height: 4em;
+            margin-top: 0.5em !important;
+            width: 50%;
+            color: white;
+            border-style: none;
+            border: 2px solid white;
+            text-align: left;
+            background-color: #616297;
+            border-radius: 5px;
+            display: flex;
+            flex-direction: row;
+            margin: auto;
+            &:focus{
+                border: 2px solid #7b9ffb;
+            }
+        }
+    }
+
+    .botonFooter {
+        width: 50%;
+        position: absolute;
+        left: 25%;
+        background-color: #7F5AF0;
+        color: white;
+        bottom: 1em;
+        height: 3.5em;
+        border-radius: 15px;
+        border: none;
+    }
+}
