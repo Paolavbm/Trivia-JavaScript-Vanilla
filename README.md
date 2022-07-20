@@ -1,4 +1,4 @@
-v<h1 align="center">Trivia JavaScript Vanilla</h1>
+<h1 align="center">Trivia JavaScript Vanilla</h1>
 
 
 
