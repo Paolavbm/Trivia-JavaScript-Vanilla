@@ -162,7 +162,7 @@ export const view = () => {
         } else if (answer !== pregActual.correct) {
             //de lo contrario, si la respuesta es diferente me dirá que me equivoqué y me dirá la respuesta correcta
             alert("Has seleccionado la respuesta equivocada, la correcta era " + " " + pregActual.correct)
-            //Después me enviará a los resultados 
+            //Después me direccionará a los resultados 
             window.location.assign("../end.html");
         }
 

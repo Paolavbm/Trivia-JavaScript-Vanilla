@@ -32,7 +32,7 @@ finalScore.innerText = "Conseguiste un total de " + mostRecentScore + " puntos";
 
 const form = document.createElement("form");
 
-// Se escucha el evento submit en el formulario para que al el enviarse se guarde esa info en el local en highScores y nos redirija al html principal
+// Se escucha el evento submit en el formulario para que al el enviarse se guarde esa info en el local en highScores y nos direccionará al html principal
  
 form.addEventListener('submit', async (e) => {
     e.preventDefault();
@@ -62,7 +62,7 @@ save.type = "submit"
 save.className = "btn"
 save.textContent= "Guardar"
 
-// Creamos etiqueta a que nos redirija al html de la trivia
+// Creamos etiqueta a que nos direccionará al html de la trivia
  
 const playAgain = document.createElement("a");
 playAgain.id = "playAgain";
@@ -70,7 +70,7 @@ playAgain.href= "../questions.html"
 playAgain.innerText = "Jugar de nuevo"
 playAgain.className = "btn1"
 
-// Creamos etiqueta a que nos redirija al html principal
+// Creamos etiqueta a que nos direccionará al html principal
  
 const goHome = document.createElement("a");
 goHome.id = "goHome";
