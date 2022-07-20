@@ -8,7 +8,7 @@ La Aplicación permite jugar 5 rondas, si pierdes una te envia al html principal
 
 
 ### Despliegue 🚀
-[Despliegue de la aplicación](https://imaginative-blancmange-9d8c50.netlify.app)
+[Despliegue de la aplicación](https://imaginative-blancmange-9d8c50.netlify.app)<br>
 [Despliegue de la aplicación con github](https://paolavbm.github.io/Trivia-JavaScript-Vanilla/)
 
 
